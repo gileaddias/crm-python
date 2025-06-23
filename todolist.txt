@@ -3,7 +3,7 @@
 
  ToDoList:
 
-- Criar um Ambiente Virtual, instalar o Django, criar o nosso Projeto
+- Criar um Ambiente Virtual, instalar o Django, criar o nosso Projeto (missão Cumprida)
     - APP para as página do projeto (name core)
     - Templates ( Home e Footer )
     - Configurar o CSS ( https://tailwindcss.com/docs/installa... )
