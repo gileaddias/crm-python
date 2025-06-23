@@ -3,4 +3,18 @@
 
  ToDoList:
 
- - Criar um Ambiente Virtual
+- Criar um Ambiente Virtual, instalar o Django, criar o nosso Projeto
+    - APP para as página do projeto (name core)
+    - Templates ( Home e Footer )
+    - Configurar o CSS ( https://tailwindcss.com/docs/installa... )
+    - Criar a Base da Aplicação ( MISSÃO CUMPRIDA)
+    - Criar página Sobre 
+
+
+- Autenticação de Usuários ( Criar a APP nome: user...)
+
+    - Criar o nosdo Banco de Dados ( Model)
+    - Criar o superuser
+    - Views
+    - Páginas ( Cadastrar, Logar , Sair)
+    - URLs(app user..)
