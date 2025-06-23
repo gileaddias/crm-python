@@ -1,0 +1,6 @@
+
+ - CRM - Aprendizado em Python -- Gilead Dias --
+
+ ToDoList:
+
+ - Criar um Ambiente Virtual
