@@ -26,6 +26,6 @@
 
 - Criar Leads ( MISSÃO CUMPRIDA)
     Criar App (lead) ( MISSÃO CUMPRIDA)
-    - Editar, Deletar ou Atualizar
+    - Editar, Deletar ou Atualizar ( MISSÃO CUMPRIDA)
     - Pagamentos
     - Deploy     
