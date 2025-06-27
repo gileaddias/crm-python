@@ -19,12 +19,13 @@
     - Páginas ( Cadastrar, Logar , Sair) ( MISSÃO CUMPRIDA)
     - URLs(app user..) ( MISSÃO CUMPRIDA)
 
-- Dasboard ( Criar a APP)
+- Dasboard ( Criar a APP) ( MISSÃO CUMPRIDA)
 
-    - Criar os Templates
-    - URLs e Views
+    - Criar os Templates ( MISSÃO CUMPRIDA)
+    - URLs e Views ( MISSÃO CUMPRIDA)
 
-- Criar Leads
-- Editar, Deletar ou Atualizar
-- Pagamentos
-- Deploy     
+- Criar Leads ( MISSÃO CUMPRIDA)
+    Criar App (lead) ( MISSÃO CUMPRIDA)
+    - Editar, Deletar ou Atualizar
+    - Pagamentos
+    - Deploy     
