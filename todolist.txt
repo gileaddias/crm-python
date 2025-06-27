@@ -3,18 +3,24 @@
 
  ToDoList:
 
-- Criar um Ambiente Virtual, instalar o Django, criar o nosso Projeto (missão Cumprida)
-    - APP para as página do projeto (name core)
-    - Templates ( Home e Footer )
-    - Configurar o CSS ( https://tailwindcss.com/docs/installa... )
+- Criar um Ambiente Virtual, instalar o Django, criar o nosso Projeto ( MISSÃO CUMPRIDA)
+    - APP para as página do projeto (name core) ( MISSÃO CUMPRIDA)
+    - Templates ( Home e Footer ) ( MISSÃO CUMPRIDA)
+    - Configurar o CSS ( https://tailwindcss.com/docs/installa... ) ( MISSÃO CUMPRIDA)
     - Criar a Base da Aplicação ( MISSÃO CUMPRIDA)
-    - Criar página Sobre 
+    - Criar página Sobre ( MISSÃO CUMPRIDA)
 
 
-- Autenticação de Usuários ( Criar a APP nome: user...)
+- Autenticação de Usuários ( Criar a APP nome: user...) ( MISSÃO CUMPRIDA)
 
-    - Criar o nosdo Banco de Dados ( Model)
-    - Criar o superuser
-    - Views
-    - Páginas ( Cadastrar, Logar , Sair)
-    - URLs(app user..)
+    - Criar o nosdo Banco de Dados ( Model) ( MISSÃO CUMPRIDA)
+    - Criar o superuser ( MISSÃO CUMPRIDA)
+    - Views ( MISSÃO CUMPRIDA)
+    - Páginas ( Cadastrar, Logar , Sair) ( MISSÃO CUMPRIDA)
+    - URLs(app user..) ( MISSÃO CUMPRIDA)
+
+- Dasboard
+- Criar Leads
+- Editar, Deletar ou Atualizar
+- Pagamentos
+- Deploy     
